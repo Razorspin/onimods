@@ -1,0 +1,3 @@
+title: "Modify Refrigerator logic to use calorie threshold"
+description: "Refrigerator will now activate/deactivate logic output based on calorie threshold"
+staticID: razorspin-refrigerator-calorie-logic

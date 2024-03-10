@@ -1,0 +1,3 @@
+title: "[Fix] Store Errand is not Supply Errand"
+description: "Changes store errands (Store Food, Sweep, Store equipment, Empty Storage) to use Storage priority instead of Supply"
+staticID: razorspin-fix-store-errand
